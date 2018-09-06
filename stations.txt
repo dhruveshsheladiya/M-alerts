@@ -1,0 +1,7 @@
+red = "North Springs", "Sandy Springs", "Dunwoody", "Medical Center", "Buckhead", "Lindbergh Center", "Arts Center", "Midtown", "North Avenue", "Civic Center", "Peachtree Center", "Five Points", "Garnett", "West End", "Oakland City", "Lakewood/Ft. McPherson", "East Point", "College Park", "Airport"
+
+gold = "Doraville", "Chamblee", "Brookhaven/Oglethorpe", "Lenox", "Lindbergh Center", "Arts Center", "Midtown", "North Avenue", "Civic Center", "Peachtree Center", "Five Points", "Garnett", "West End", "Oakland City", "Lakewood/Ft. McPherson", "East Point", "College Park", "Airport"
+
+green = "Bankhead", "Ashby", "Vine City", "Dome/GWCC/Philips Arena/CNN Center", "Five Points", "Georgia State", "King Memorial", "Inman Park/Reynoldstown", "Edgewood/Candler Park"
+
+blue = "Hamilton E. Holmes", "West Lake", "Ashby", "Vine City", "Dome/GWCC/Philips Arena/CNN Center", "Five Points", "Georgia State", "King Memorial", "Inman Park/Reynoldstown", "Edgewood/Candler Park", "East Lake", "Decatur", "Avondale", "Kensington", "Indian Creek"
